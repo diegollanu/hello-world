@@ -1,2 +1,3 @@
 # hello-world
-Tutorial repo
+
+¡Hola mundo! Este tutorial es para aprender a usar GITHUB
